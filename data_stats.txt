@@ -1,0 +1,10 @@
+Dataset Statistics
+==================
+Total instances: 101766
+Total features: 47
+
+Target (readmitted) Distribution:
+readmitted
+NO     54864
+>30    35545
+<30    11357
